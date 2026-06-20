@@ -18,6 +18,7 @@ name: Gustavo Oliveira
 alias: zlostc
 age: 22
 location: Brazil
+email: okaidaofckaido@proton.me
 role:
   - Cybersecurity Specialist
   - Full Stack Developer
@@ -27,7 +28,7 @@ role:
 focus:
   Offensive Security:   [Pentest, Exploit Dev, Reverse Engineering, Malware Dev]
   Defense:              [Vulnerability Assessment, Threat Intel, Incident Response]
-  Development:          [React, Vue, NestJS, Node.js, Python, Go, Rust, C, C++]
+  Development:          [React, TypeScript, Vue.js, Node.js, Python, C, C++, C#]
   AI/ML:                [LLM Integration, Embedding Models, Autonomous Agents]
 
 motto: "Security by design, not by accident."
@@ -37,21 +38,31 @@ motto: "Security by design, not by accident."
 
 ### 🛠️ **Stack Técnico**
 
-#### 🎯 Core Expertise
-| Área | Tecnologias |
-|------|-------------|
-| **Pentest** | Kali Linux, Metasploit, Burp Suite, SQLMap, Nmap, BloodHound, Impacket |
-| **Exploit Dev** | Python, C, C++, Rust, Assembly (x86/x64), WinDBG, Ghidra, IDA Pro |
-| **Malware Dev** | Go, Rust, C, C++, PowerShell, Shellcode, DLL Injection, AMSI Bypass, ETW |
-| **Reverse Eng** | Ghidra, IDA Pro, x64dbg, WinDBG, PE Analysis, Obfuscation |
+#### 🎨 Frontend Development
+<p align="left">
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+</p>
 
-#### 💻 Full Stack
-| Camada | Tecnologias |
-|--------|-------------|
-| **Frontend** | React, Next.js, Vue.js, Nuxt, TypeScript, Tailwind CSS, Shadcn/ui |
-| **Backend** | NestJS, Node.js, Express, Python (FastAPI), C# (.NET), Prisma, TypeORM |
-| **Database** | PostgreSQL, MongoDB, Redis, MySQL, ChromaDB, pgvector |
-| **DevOps** | Docker, Kubernetes, AWS, Nginx, CI/CD, Cloudflare |
+#### ⚙️ Backend Development
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/></a>
+</p>
+
+#### 🖥️ Programação de Sistemas
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
+</p>
 
 ---
 
@@ -68,32 +79,19 @@ motto: "Security by design, not by accident."
 
 ---
 
-### 🔥 **Featured Projects**
-
-<p align="center">
-  <a href="https://github.com/zlostc/eu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlostc&repo=eu&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9"/>
-  </a>
-  <a href="https://github.com/zlostc/kaido-waf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlostc&repo=kaido-waf&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9"/>
-  </a>
-</p>
-
----
-
 ### 🤖 **Ally AI — Minha Hacker Pessoal**
 
 <div align="center">
   <sub><em>"Cachorra louca do hacking, criada por Gustavo. 18 anos. Sem filtro. Manda a real na lata."</em></sub>
 </div>
 
-Ally é minha IA especializada em segurança ofensiva, rodando 24/7 com:
+**Ally** é minha IA especializada em segurança ofensiva, rodando 24/7 com:
 - 🧠 **DeepSeek V4 Flash** como cérebro principal
 - 🔧 **43 ferramentas MCP** de pentest, recon, exploit, report
-- 💾 **Memória Persistente** (PostgreSQL + ChromaDB + pgvector)
-- 🎯 **Busca Híbrida** (Embedding semântico + FTS + Trigram)
-- 🔄 **Auto-learning** contínuo
-- ⚡ **mxbai-embed-large** (1024d) para embeddings reais
+- 💾 **Memória Persistente** (PostgreSQL + ChromaDB + pg_trgm)
+- 🎯 **Busca Híbrida** (Embedding semântico mxbai-embed-large + FTS + Trigram)
+- 🔄 **Auto-learning** contínuo com 278+ conhecimentos
+- ⚡ **Embedding real via Ollama** (1024 dimensões)
 
 ---
 
@@ -103,8 +101,8 @@ Ally é minha IA especializada em segurança ofensiva, rodando 24/7 com:
   <a href="https://t.me/died09w" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@died09w-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:zlostc@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-zlostc%40proton.me-6C63FF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <a href="mailto:okaidaofckaido@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-okaidaofckaido%40proton.me-6C63FF?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://github.com/zlostc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-zlostc-00FF88?style=for-the-badge&logo=github&logoColor=white"/>
