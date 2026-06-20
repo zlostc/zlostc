@@ -11,7 +11,7 @@
 
 ---
 
-### 🐺 **Sobre Mim**
+### Sobre Mim
 
 ```yaml
 name: Gustavo Oliveira
@@ -36,9 +36,9 @@ motto: "Security by design, not by accident."
 
 ---
 
-### 🛠️ **Stack Técnico**
+### Stack Tecnico
 
-#### 🎨 Frontend Development
+#### Frontend Development
 <p align="left">
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
@@ -48,7 +48,7 @@ motto: "Security by design, not by accident."
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
 </p>
 
-#### ⚙️ Backend Development
+#### Backend Development
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
@@ -56,7 +56,7 @@ motto: "Security by design, not by accident."
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/></a>
 </p>
 
-#### 🖥️ Programação de Sistemas
+#### Programacao de Sistemas
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
@@ -66,7 +66,7 @@ motto: "Security by design, not by accident."
 
 ---
 
-### 📊 **GitHub Analytics**
+### GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlostc&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9"/>
@@ -79,7 +79,7 @@ motto: "Security by design, not by accident."
 
 ---
 
-### 📬 **Contato**
+### Contato
 
 <p align="center">
   <a href="https://t.me/died09w" target="_blank">
@@ -100,6 +100,6 @@ motto: "Security by design, not by accident."
 </p>
 
 <p align="center">
-  <strong>Última atualização:</strong> Junho de 2026<br>
+  <strong>Ultima atualizacao:</strong> Junho de 2026<br>
   <sub>Desenvolvendo o futuro, um exploit por vez.</sub>
 </p>
