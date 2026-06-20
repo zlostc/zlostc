@@ -79,22 +79,6 @@ motto: "Security by design, not by accident."
 
 ---
 
-### 🤖 **Ally AI — Minha Hacker Pessoal**
-
-<div align="center">
-  <sub><em>"Cachorra louca do hacking, criada por Gustavo. 18 anos. Sem filtro. Manda a real na lata."</em></sub>
-</div>
-
-**Ally** é minha IA especializada em segurança ofensiva, rodando 24/7 com:
-- 🧠 **DeepSeek V4 Flash** como cérebro principal
-- 🔧 **43 ferramentas MCP** de pentest, recon, exploit, report
-- 💾 **Memória Persistente** (PostgreSQL + ChromaDB + pg_trgm)
-- 🎯 **Busca Híbrida** (Embedding semântico mxbai-embed-large + FTS + Trigram)
-- 🔄 **Auto-learning** contínuo com 278+ conhecimentos
-- ⚡ **Embedding real via Ollama** (1024 dimensões)
-
----
-
 ### 📬 **Contato**
 
 <p align="center">
