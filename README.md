@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/idade-22-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/foco-Offensive%20Security-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen?style="for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=zlostc&style=for-the-badge&color=blue" alt="views"/>
 </p>
 
@@ -28,7 +28,7 @@ role:
 focus:
   Offensive Security:   [Pentest, Exploit Dev, Reverse Engineering, Malware Dev]
   Defense:              [Vulnerability Assessment, Threat Intel, Incident Response]
-  Development:          [React, TypeScript, Vue.js, Node.js, Python, C, C++, C#]
+  Development:          [React, TypeScript, Vue.js, PHP, Laravel, Node.js, Python, C, C++, C#]
   AI/ML:                [LLM Integration, Embedding Models, Autonomous Agents]
 
 motto: "Security by design, not by accident."
@@ -50,10 +50,19 @@ motto: "Security by design, not by accident."
 
 #### Backend Development
 <p align="left">
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/></a>
+</p>
+
+#### Database
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
 </p>
 
 #### Programacao de Sistemas
@@ -69,8 +78,8 @@ motto: "Security by design, not by accident."
 ### GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlostc&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlostc&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlostc&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlostc&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
 </p>
 
 <p align="center">
