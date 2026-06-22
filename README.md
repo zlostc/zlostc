@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&height=80&lines=zlostc;Cybersecurity+%26+Full+Stack;Offensive+Security+%26+AI" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&height=80&lines=zlostc;Cybersecurity+%26+Full+Stack;Offensive+Security+%26+AI;Red+Team+%26+Pentest;Product+Engineer" alt="typing svg" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/idade-22-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/foco-Offensive%20Security-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen?style="for-the-badge"/>
+  <img src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=zlostc&style=for-the-badge&color=blue" alt="views"/>
 </p>
 
@@ -24,15 +24,27 @@ role:
   - Full Stack Developer
   - AI Engineer
   - Malware Analyst
+  - Red Team Operator
+  - Product Engineer
 
 focus:
-  Offensive Security:   [Pentest, Exploit Dev, Reverse Engineering, Malware Dev]
-  Defense:              [Vulnerability Assessment, Threat Intel, Incident Response]
-  Development:          [React, TypeScript, Vue.js, PHP, Laravel, Node.js, Python, C, C++, C#]
-  AI/ML:                [LLM Integration, Embedding Models, Autonomous Agents]
+  Offensive Security:   [Pentest, Exploit Dev, Reverse Engineering, Malware Dev, Social Engineering]
+  Defense:              [Vulnerability Assessment, Threat Intel, Incident Response, WAF]
+  Development:          [React, TypeScript, Next.js, Vue.js, PHP, Laravel, Node.js, Python, C, C++]
+  AI/ML:                [LLM Integration, Embedding Models, Autonomous Agents, Prompt Injection]
+  Product:              [Design Systems, UI/UX, SaaS Architecture, Full Stack]
 
 motto: "Security by design, not by accident."
 ```
+
+---
+
+### Projetos
+
+| Projeto | Descricao | Stack |
+|---------|-----------|-------|
+| [Finance App](https://github.com/zlostc/finance-app) | Plataforma de administracao financeira pessoal com dashboard, DRE, graficos e exportacao PDF | React, TypeScript, Node.js, Express, Prisma, MySQL, Tailwind |
+| [Kaido WAF](https://github.com/zlostc/kaido-waf) | Web Application Firewall com protecao contra SQLi, XSS, Path Traversal, CMDi, SSRF. Proxy reverso com rate limiting e dashboard SSR | Python |
 
 ---
 
@@ -42,7 +54,9 @@ motto: "Security by design, not by accident."
 <p align="left">
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
@@ -63,6 +77,7 @@ motto: "Security by design, not by accident."
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50"/></a>
 </p>
 
 #### Programacao de Sistemas
