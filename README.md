@@ -45,6 +45,7 @@ motto: "Security by design, not by accident."
 |---------|-----------|-------|
 | [Finance App](https://github.com/zlostc/finance-app) | Plataforma de administracao financeira pessoal com dashboard, DRE, graficos e exportacao PDF | React, TypeScript, Node.js, Express, Prisma, MySQL, Tailwind |
 | [Kaido WAF](https://github.com/zlostc/kaido-waf) | Web Application Firewall com protecao contra SQLi, XSS, Path Traversal, CMDi, SSRF. Proxy reverso com rate limiting e dashboard SSR | Python |
+| [Kally](https://github.com/zlostc/kally) | Bot Discord multifuncional com musica, economia Minecraft, diversao e 40+ comandos | aoi.js v6, discord.js v14, Express |
 
 ---
 
