@@ -93,12 +93,36 @@ motto: "Security by design, not by accident."
 ### GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlostc&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlostc&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/zlostc">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=zlostc&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&ring_color=00FF88&custom_title=Estatisticas%20do%20GitHub"/>
+  </a>
+  <a href="https://github.com/zlostc">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlostc&layout=compact&langs_count=12&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=Linguagens%20Mais%20Usadas"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zlostc&theme=dark&hide_border=true&background=0d1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88" alt="streak" width="80%"/>
+  <a href="https://github.com/zlostc">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlostc&theme=dark&hide_border=true&background=0d1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideNums=00FF88&sideLabels=c9d1d9&dates=6b7280" alt="streak" width="80%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zlostc">
+    <img src="https://github-profile-trophy.vercel.app/?username=zlostc&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commit,Repositories,Issues,PullRequest" alt="trophy" width="85%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zlostc">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlostc&theme=github-dark&hide_border=true&bg_color=0d1117&color=00FF88&line=00FF88&point=c9d1d9&area=true&area_color=00FF8810" alt="activity-graph" width="95%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zlostc">
+    <img src="https://raw.githubusercontent.com/zlostc/zlostc/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+  </a>
 </p>
 
 ---
@@ -118,10 +142,6 @@ motto: "Security by design, not by accident."
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-</p>
 
 <p align="center">
   <strong>Ultima atualizacao:</strong> Junho de 2026<br>
