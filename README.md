@@ -108,8 +108,11 @@ motto: "Security by design, not by accident."
 </p>
 
 <p align="center">
-  <a href="https://github.com/zlostc">
-    <img src="https://github-profile-trophy.vercel.app/?username=zlostc&theme=onestar&no-frame=true&column=4&margin-w=6" alt="trophy" width="75%"/>
+  <a href="https://github.com/zlostc/finance-app">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=zlostc&repo=finance-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9" alt="finance-app"/>
+  </a>
+  <a href="https://github.com/zlostc/kaido-waf">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=zlostc&repo=kaido-waf&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9" alt="kaido-waf"/>
   </a>
 </p>
 
