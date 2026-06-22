@@ -109,7 +109,7 @@ motto: "Security by design, not by accident."
 
 <p align="center">
   <a href="https://github.com/zlostc">
-    <img src="https://github-profile-trophy.vercel.app/?username=zlostc&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commit,Repositories,Issues,PullRequest" alt="trophy" width="85%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=zlostc&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=4&title=Stars,Followers,Commits,Repositories,Issues,PR" alt="trophy" width="75%"/>
   </a>
 </p>
 
@@ -120,9 +120,7 @@ motto: "Security by design, not by accident."
 </p>
 
 <p align="center">
-  <a href="https://github.com/zlostc">
-    <img src="https://raw.githubusercontent.com/zlostc/zlostc/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 </p>
 
 ---
