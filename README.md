@@ -46,7 +46,7 @@ Atualmente estou evoluindo em áreas como <b>AI Engineering</b>, <b>malware deve
   <tr>
     <!-- Skills -->
     <td valign="top" width="50%" align="center">
-      <h3 align="center">🛠️ Tech Stack</h3>
+      <img src="https://img.shields.io/badge/Tech%20Stack-0d1117?style=for-the-badge&logo=visualstudio&logoColor=00FF88"/><br><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php,laravel,c,cpp" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,docker,git,github" /><br>
@@ -55,8 +55,7 @@ Atualmente estou evoluindo em áreas como <b>AI Engineering</b>, <b>malware deve
 
 <!-- Featured Projects -->
 <td valign="top" width="50%" align="center">
-  <h3 align="center">📌 Featured Projects</h3>
-  <br>
+  <img src="https://img.shields.io/badge/Featured%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=00FF88"/><br><br>
   <a href="https://github.com/zlostc/kaido-waf">
     <img src="https://img.shields.io/badge/Kaido_WAF-Python-00FF88?style=for-the-badge&logo=python&logoColor=white"/>
     <br>
@@ -90,7 +89,9 @@ Atualmente estou evoluindo em áreas como <b>AI Engineering</b>, <b>malware deve
 </p>
 
 <!-- Sobre Mim -->
-<h3 align="center">📋 Sobre Mim</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sobre%20Mim-0d1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</p>
 
 <pre align="center">
 name: Gustavo Oliveira
@@ -117,7 +118,9 @@ focus:
 <br>
 
 <!-- Projetos -->
-<h3 align="center">📂 Projetos</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Projetos-0d1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</p>
 
 <table align="center">
   <tr>
@@ -145,7 +148,9 @@ focus:
 <br>
 
 <!-- Stack Tecnico -->
-<h3 align="center">💻 Stack Tecnico</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack%20T%C3%A9cnico-0d1117?style=for-the-badge&logo=visualstudio&logoColor=00FF88"/>
+</p>
 
 <h4 align="center">Frontend</h4>
 <p align="center">
@@ -191,7 +196,9 @@ focus:
 <br>
 
 <!-- GitHub Analytics -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Analytics-0d1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zlostc&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&ring_color=00FF88&custom_title=Estatisticas%20do%20GitHub"/>
@@ -213,7 +220,9 @@ focus:
 <br>
 
 <!-- Contato -->
-<h3 align="center">📞 Contato</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Contato-0d1117?style=for-the-badge&logo=telegram&logoColor=00FF88"/>
+</p>
 
 <p align="center">
   <a href="https://t.me/died09w"><img src="https://img.shields.io/badge/Telegram-@died09w-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
