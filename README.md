@@ -1,14 +1,14 @@
-<!-- Banner -->
+<!-- Banner Typing SVG -->
 <p align="center">
   <a href="https://github.com/zlostc">
-    <img src="https://i.ibb.co/Kcf7SQXr/nogdeveloper.png" alt="Banner" width="100%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=700&height=80&lines=zlostc;Cybersecurity+%26+Full+Stack+Development;Offensive+Security+%26+AI;Red+Team+Operator" alt="typing svg"/>
   </a>
 </p>
 
 <br>
 
-<!-- Who am I -->
-<img src="https://i.ibb.co/Fk1rfMZ3/SHIZUKI-MIZUKI.png" width="360" align="left"/>
+<!-- Avatar + Who Am I -->
+<img src="https://avatars.githubusercontent.com/u/71720977?v=4" width="300" align="left" style="border-radius: 50%;"/>
 
 <h3 align="center">Who Am I?</h3>
 
@@ -32,12 +32,9 @@ Atualmente estou evoluindo em áreas como <b>AI Engineering</b>, <b>malware deve
 
 ---
 
-<img src="https://i.ibb.co/23h199Y1/aranha.png" width="90" align="right"/>
-
-> [!Caution]
->
-> Security by design, not by accident.
-> >
+<p align="center">
+  <b>Security by design, not by accident.</b>
+</p>
 
 <br>
 
@@ -46,15 +43,16 @@ Atualmente estou evoluindo em áreas como <b>AI Engineering</b>, <b>malware deve
   <tr>
     <!-- Skills -->
     <td valign="top" width="50%" align="center">
-      <img src="https://i.ibb.co/pvGcbbDs/nogui-tech.png"/><br><br>
+      <h3 align="center">🛠️ Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php,laravel,c,cpp" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,docker,git,github" /><br>
   <img src="https://skillicons.dev/icons?i=rust,go,bash,powershell,figma,linux,aws" /><br>
 </td>
 
-<!-- Featured Project -->
+<!-- Featured Projects -->
 <td valign="top" width="50%" align="center">
+  <h3 align="center">📌 Featured Projects</h3>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlostc&repo=kaido-waf&theme=dark&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&icon_color=00FF88&hide_border=true"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlostc&repo=finance-app&theme=dark&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&icon_color=00FF88&hide_border=true"/>
@@ -78,7 +76,7 @@ Atualmente estou evoluindo em áreas como <b>AI Engineering</b>, <b>malware deve
 </p>
 
 <!-- Sobre Mim -->
-<h3 align="center">Sobre Mim</h3>
+<h3 align="center">📋 Sobre Mim</h3>
 
 <pre align="center">
 name: Gustavo Oliveira
@@ -105,7 +103,7 @@ focus:
 <br>
 
 <!-- Projetos -->
-<h3 align="center">Projetos</h3>
+<h3 align="center">📂 Projetos</h3>
 
 <table align="center">
   <tr>
@@ -133,7 +131,7 @@ focus:
 <br>
 
 <!-- Stack Tecnico -->
-<h3 align="center">Stack Tecnico</h3>
+<h3 align="center">💻 Stack Tecnico</h3>
 
 <h4 align="center">Frontend</h4>
 <p align="center">
@@ -179,7 +177,7 @@ focus:
 <br>
 
 <!-- GitHub Analytics -->
-<h3 align="center">GitHub Analytics</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zlostc&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&ring_color=00FF88&custom_title=Estatisticas%20do%20GitHub"/>
@@ -201,7 +199,7 @@ focus:
 <br>
 
 <!-- Contato -->
-<h3 align="center">Contato</h3>
+<h3 align="center">📞 Contato</h3>
 
 <p align="center">
   <a href="https://t.me/died09w"><img src="https://img.shields.io/badge/Telegram-@died09w-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
