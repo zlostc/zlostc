@@ -32,9 +32,12 @@ Atualmente estou evoluindo em áreas como <b>AI Engineering</b>, <b>malware deve
 
 ---
 
-<p align="center">
-  <b>Security by design, not by accident.</b>
-</p>
+<img src="https://i.ibb.co/23h199Y1/aranha.png" width="90" align="right"/>
+
+> [!Caution]
+>
+> Security by design, not by accident.
+> >
 
 <br>
 
@@ -53,9 +56,20 @@ Atualmente estou evoluindo em áreas como <b>AI Engineering</b>, <b>malware deve
 <!-- Featured Projects -->
 <td valign="top" width="50%" align="center">
   <h3 align="center">📌 Featured Projects</h3>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlostc&repo=kaido-waf&theme=dark&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&icon_color=00FF88&hide_border=true"/>
+  <br>
+  <a href="https://github.com/zlostc/kaido-waf">
+    <img src="https://img.shields.io/badge/Kaido_WAF-Python-00FF88?style=for-the-badge&logo=python&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/github/stars/zlostc/kaido-waf?style=for-the-badge&color=yellow"/>
+    <img src="https://img.shields.io/github/license/zlostc/kaido-waf?style=for-the-badge&color=blue"/>
+  </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlostc&repo=finance-app&theme=dark&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&icon_color=00FF88&hide_border=true"/>
+  <a href="https://github.com/zlostc/finance-app">
+    <img src="https://img.shields.io/badge/Finance_App-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/github/stars/zlostc/finance-app?style=for-the-badge&color=yellow"/>
+    <img src="https://img.shields.io/github/languages/count/zlostc/finance-app?style=for-the-badge&color=blue"/>
+  </a>
 </td>
 
   </tr>
