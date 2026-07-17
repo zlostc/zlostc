@@ -1,7 +1,7 @@
 <!-- Banner Typing SVG -->
 <p align="center">
   <a href="https://github.com/zlostc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=700&height=80&lines=zlostc;Cybersecurity+%26+Full+Stack+Development;Offensive+Security+%26+AI;Red+Team+Operator" alt="typing svg"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FF88¢er=true&vCenter=true&random=false&width=700&height=80&lines=zlostc;Cybersecurity+%26+Full+Stack+Development;Offensive+Security+%26+AI;Red+Team+Operator" alt="typing svg"/>
   </a>
 </p>
 
