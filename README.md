@@ -154,8 +154,14 @@ focus:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zlostc&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&ring_color=00FF88&custom_title=Estatisticas%20do%20GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlostc&layout=compact&langs_count=12&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=Linguagens%20Mais%20Usadas"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zlostc&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&ring_color=00FF88&custom_title=GitHub%20Statistics"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlostc&layout=compact&langs_count=12&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=Most%20Used%20Languages"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
