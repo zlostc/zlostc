@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/zlostc">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=700&height=80&lines=Cyber+Security;Full+Stack+Development;Red+Team"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=700&height=80&lines=zlostc;Offensive+Cybersecurity+%26+Full+Stack+Development;Offensive+Security+%26+AI;Red+Team+Operator"
       alt="Typing SVG"
     />
   </a>
