@@ -1,7 +1,10 @@
 <!-- Banner Typing SVG -->
 <p align="center">
   <a href="https://github.com/zlostc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FF88¢er=true&vCenter=true&random=false&width=700&height=80&lines=Cyber+Security+Full+Stack+Development;Red+Team" alt="typing svg"/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=700&height=80&lines=Cyber+Security;Full+Stack+Development;Red+Team"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
